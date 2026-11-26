@@ -1,6 +1,6 @@
 # Vertical Caption Kit v1
 
-**Planned price: US$5.**
+**Price: US$5.**
 
 Three editable ASS subtitle styling templates for 1080 × 1920 short-form videos. Designed for product demos, tutorial clips and social edits.
 
@@ -16,6 +16,12 @@ Three editable ASS subtitle styling templates for 1080 × 1920 short-form videos
 
 All three styles have been test-rendered. Fonts, footage, music and Adobe preset files are not included.
 
-## Availability
+## Ordering
 
-The package is built, and the previews are available now. To register interest, email [jamburiawork@gmail.com](mailto:jamburiawork@gmail.com?subject=Vertical%20Caption%20Kit%20interest). Sales and payment instructions will be confirmed only after a compliant receiving arrangement is established. **Please do not send money yet.** No checkout is currently active.
+1. Email [jamburiawork@gmail.com](mailto:jamburiawork@gmail.com?subject=Product%20order) with the product name.
+2. Confirm the order, license, delivery and refund terms with the seller. The designated payment method is PayPal (Jamburiainc@gmail.com), subject to confirmation that the receiving arrangement is authorized and eligible. Do not send an unsolicited transfer; pay only against a confirmed order and valid payment request.
+3. The seller sends the ZIP by email after a completed payment is confirmed.
+
+This is a manual order page, not an automated checkout.
+
+[View the $15 Thumbnail Layout Kit](../thumbnail-layout-kit).
